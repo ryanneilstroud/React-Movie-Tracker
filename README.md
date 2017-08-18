@@ -1,4 +1,4 @@
-# Practice Tracker
+# Movie Tracker
 
 A React web app using Webpack.
 
